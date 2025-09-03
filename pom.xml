@@ -10,8 +10,8 @@
     <groupId>com.rayedge</groupId>
     <artifactId>reservation</artifactId>
     <version>0.0.2-SNAPSHOT</version>
-    <name>notification-service</name>
-    <description>notification-service</description>
+    <name>payment-service</name>
+    <description>payment-service</description>
     <url />
     <licenses>
         <license />
